@@ -1,0 +1,5 @@
+/build
+/dist
+/output
+/venv
+/__pycache__
